@@ -1,0 +1,10 @@
+{
+  "name": "Golden Hour \u2014 Evora development 11 October 2026",
+  "short_name": "Evora study",
+  "start_url": "./play.html?fleet=evora&touch=1",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0b0f16",
+  "theme_color": "#0b0f16"
+}
